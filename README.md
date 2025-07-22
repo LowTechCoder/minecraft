@@ -17,4 +17,5 @@ search for framework forge and controller forge and download those.  Choose all 
 place those in this folder ~/.minecraft/mods/
 start the game again using Forge
 install tailscale and run it at boot
+https://tailscale.com/kb/1031/install-linux
 ```
