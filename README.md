@@ -18,4 +18,5 @@ place those in this folder ~/.minecraft/mods/
 start the game again using Forge
 install tailscale and run it at boot
 https://tailscale.com/kb/1031/install-linux
+curl -fsSL https://tailscale.com/install.sh | sh
 ```
